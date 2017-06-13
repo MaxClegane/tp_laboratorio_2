@@ -1,0 +1,4 @@
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb

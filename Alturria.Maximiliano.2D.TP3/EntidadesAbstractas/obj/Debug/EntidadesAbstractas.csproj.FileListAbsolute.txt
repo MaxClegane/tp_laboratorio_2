@@ -1,0 +1,7 @@
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

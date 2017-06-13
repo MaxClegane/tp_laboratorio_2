@@ -1,0 +1,13 @@
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\UnitTestProject1\bin\Debug\EntidadesAbstractas.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\UnitTestProject1\bin\Debug\EntidadesInstanciables.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\UnitTestProject1\bin\Debug\Excepciones.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\UnitTestProject1\bin\Debug\Archivos.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\UnitTestProject1\bin\Debug\EntidadesAbstractas.pdb
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\UnitTestProject1\bin\Debug\EntidadesInstanciables.pdb
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\UnitTestProject1\bin\Debug\Excepciones.pdb
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\UnitTestProject1\bin\Debug\Archivos.pdb
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,14 @@
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\Archivos\bin\Debug\Archivos.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\Archivos\obj\Debug\Archivos.dll
+E:\TP3_2017_1.00\Alturria.Maximiliano.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\maltu\Desktop\tp_laboratorio_2-master(1)\tp_laboratorio_2-master\Alturria.Maximiliano.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\maltu\Desktop\tp_laboratorio_2-master(1)\tp_laboratorio_2-master\Alturria.Maximiliano.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\maltu\Desktop\tp_laboratorio_2-master(1)\tp_laboratorio_2-master\Alturria.Maximiliano.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\maltu\Desktop\tp_laboratorio_2-master(1)\tp_laboratorio_2-master\Alturria.Maximiliano.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\maltu\Desktop\tp_laboratorio_2-master(1)\tp_laboratorio_2-master\Alturria.Maximiliano.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\maltu\Desktop\tp_laboratorio_2-master(1)\tp_laboratorio_2-master\Alturria.Maximiliano.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\maltu\Desktop\tp_laboratorio_2-master(1)\tp_laboratorio_2-master\Alturria.Maximiliano.2D.TP3\Archivos\obj\Debug\Archivos.pdb
